@@ -1,4 +1,4 @@
-# ⚡ Hey, I'm Kannu
+# ⚡ Hey, I'm Kanisha (Kannu)
 
 ### `Electrical Engineer` • `Builder` • `Researcher` • `Problem Solver`
 
