@@ -310,7 +310,7 @@ const kannu = {
     projects_started: "classified",
     unfinished_ideas: "too many",
     curiosity: Infinity,
-    coffee_dependency: "optional",
+    sweettreat_dependency: "1000%",
     bug_fixing_strategy: "stare at it until it makes sense",
 };
 ```
