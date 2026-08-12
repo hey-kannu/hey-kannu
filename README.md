@@ -4,7 +4,7 @@
 
 > **I don't just learn technology — I like turning ideas into things that can actually work.**
 
-I'm a **3rd-year Electrical Engineering student** who enjoys living somewhere between **hardware, software, AI, embedded systems and research**.
+I'm a **4th-year Electrical Engineering student** who enjoys living somewhere between **hardware, software, AI, embedded systems and research**.
 
 I like taking a problem that sounds *"someone should build this"* and turning it into:
 
